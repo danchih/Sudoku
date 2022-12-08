@@ -10,7 +10,8 @@
 - Nele é possível jogar até 3 níveis diferentes (Fácil, Médio e Difícil) de jogo de Sudoku
 - Instruções e regras ja inclusos na interfase do jogo
 
- ##   ![image](https://user-images.githubusercontent.com/111883180/206521545-74a0d843-aafd-458a-a41d-693a0111e076.png)
+![image](https://user-images.githubusercontent.com/111883180/206522329-10d751fb-1882-4967-ae68-d111bf79d7c2.png) ![image](https://user-images.githubusercontent.com/111883180/206522435-7efe36f7-a928-42fb-be5d-06cf26455b17.png)
+
 
 ### Acesso ao Projeto:
 - Para acessar o projeto, basta baixar o arquivo Proj_02.asm no computador e executar ele
