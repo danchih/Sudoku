@@ -1,7 +1,7 @@
 # Sudoku
 
 ### Descrição do Projeto
-- Esse projeto tem como objetivo criar um jogo de Sudoku utilizando a liguagem Assembly. Nesse estão sendo desenvolvidos nossos conhecimentos sobre a linguagem utilizada e, ao mesmo tempo, como aplicamos elas através do jogo 
+- Esse projeto tem como objetivo criar um jogo de Sudoku utilizando a liguagem Assembly. Nele estão sendo desenvolvidos nossos conhecimentos sobre a linguagem utilizada e, ao mesmo tempo, como aplicamos ela durante o processo de criação do jogo 
 
 ### Status do Projeto: 
 - Concluído.
