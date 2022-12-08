@@ -7,7 +7,7 @@
 - Concluído.
 
 ### Funcionalidades:
-- Nele é possível jogar até 3 níveis diferentes (Fácil, Médio e Difícil) de jogo
+- Nele é possível jogar até 3 níveis diferentes (Fácil, Médio e Difícil) de jogo de Sudoku
 - Instruções e regras ja inclusos na interfase do jogo
 
 
